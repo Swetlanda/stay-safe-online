@@ -80,10 +80,12 @@ main {
 }
 
 .footer a {
-   
+    position: relative;
+    top: 40%;
+    left: 15px;
     font-style: normal;
     text-decoration: none;
-    color: white;
+    color: #0081A7;
     letter-spacing: 0.03em;
 }
 
