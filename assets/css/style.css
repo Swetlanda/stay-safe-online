@@ -32,14 +32,12 @@ main {
     height: auto;
     padding-top: 60px;
     padding-bottom: 60px;
-    margin-left: auto;
-    margin-right: auto;
     
 }
 
 .footer-list {
     display:flex;
-
+    justify-content: space-around;
 }
 .logo {
     width: 120px;
