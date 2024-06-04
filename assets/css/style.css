@@ -12,6 +12,7 @@ body {
     flex-direction: column;
 }
 
+
 /* Styles for Navbar */
 .navbar-custom-background {
     background-color: #0081A7;
@@ -29,7 +30,6 @@ body {
 }
 .navbar-brand {
     color: #FED9B7;
-
 }
 
 /* Main content */
@@ -100,3 +100,4 @@ main {
     width: 400px;
     height: 60px;
 }
+
