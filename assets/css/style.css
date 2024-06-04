@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700');
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -37,6 +39,35 @@ main {
    
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+}
+
+
+/*Safety tips*/
+.homepage-safety-header {
+color: #0081A7;
+text-align: center;
+}
+.homepage-safety-text {
+    text-align: center;
+}
+
+.card-footer {
+    background-color: white;
+    text-align: center;
+}
+.card-title{
+    text-align: center;
+    color: #0081A7;
+}
+.card {
+    border-color: #0081A7;
+}
+.btn-light {
+    background-color:#00AFB9;
+    color: #FDFCDC;
+}
+.card-footer {
+    border-color: #0081A7;
 }
 
 /* Footer */
