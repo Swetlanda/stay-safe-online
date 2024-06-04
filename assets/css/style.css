@@ -1,3 +1,18 @@
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
 /* Styles for Navbar */
 .navbar-custom-background {
     background-color: #0081A7;
@@ -16,3 +31,73 @@
 .navbar-brand {
     color: #FED9B7;
 }
+
+/* Main content */
+main {
+   
+    /* Make main element take up any surplus space to push footer down */
+    flex: 1 0 auto;
+}
+
+/* Footer */
+.footer {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #ffffff;
+    background: #00AFB9;
+    height: auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+}
+
+.footer-list {
+    display:flex;
+    justify-content: space-around;
+}
+.logo {
+    width: 120px;
+    height: 120px;
+    background-color: #FED9B7;
+    border-radius: 50%;
+}
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
+.footer a {
+   
+    font-style: normal;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 0.03em;
+}
+
+.logo-span {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: black;
+}
+
+.socials {
+    width: 400px;
+    height: 60px;
+}
+
