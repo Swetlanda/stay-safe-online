@@ -21,51 +21,73 @@ body {
 }
 
 .btn-helpline {
-    background-color: #F07167; 
-    border-color: #F07167;    
-    color: black;             
+    background-color: #F07167;
+    border-color: #F07167;
+    color: black;
 }
 
 .btn-helpline:hover {
-    background-color: #d7473c; 
-    border-color: #d7473c;    
+    background-color: #d7473c;
+    border-color: #d7473c;
 }
+
 .navbar-brand {
     color: #FED9B7;
 }
 
 /* Main content */
 main {
-   
+
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
 
 
 /*Safety tips*/
-.homepage-safety-header {
-color: #0081A7;
-text-align: center;
-}
-.homepage-safety-text {
+.homepage-safety-header,
+.safety-page-header {
+    color: #0081A7;
     text-align: center;
+}
+
+.homepage-safety-text,
+    {
+    text-align: center;
+}
+
+.safety-page-text {
+    text-align: center;
+    font-size: 120%;
+}
+
+.safety-article {
+    background-color: #FDFCDC;
 }
 
 .card-footer {
     background-color: white;
     text-align: center;
 }
-.card-title{
+
+.card-title {
     text-align: center;
     color: #0081A7;
 }
+
 .card {
     border-color: #0081A7;
 }
+
 .btn-light {
-    background-color:#00AFB9;
+    background-color: #00AFB9;
     color: #FDFCDC;
 }
+
+.btn-light:hover {
+    background-color: #166166;
+    color: #FDFCDC;
+}
+
 .card-footer {
     border-color: #0081A7;
 }
@@ -83,19 +105,21 @@ text-align: center;
     height: auto;
     padding-top: 60px;
     padding-bottom: 60px;
-    
+
 }
 
 .footer-list {
-    display:flex;
+    display: flex;
     justify-content: space-around;
 }
+
 .logo {
     width: 120px;
     height: 120px;
     background-color: #FED9B7;
     border-radius: 50%;
 }
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -133,4 +157,3 @@ text-align: center;
     width: 400px;
     height: 60px;
 }
-
