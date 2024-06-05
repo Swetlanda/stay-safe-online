@@ -137,6 +137,11 @@ h1 {
       max-width: 100%;
     }
 }
+.video {
+border: 1px solid #0081A7;
+border-radius: 0.5%;
+
+}
 
 /* Footer */
 .footer {
