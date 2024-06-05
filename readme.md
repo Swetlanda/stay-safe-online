@@ -124,15 +124,15 @@ This project can be used to highlight and demonstrate any number of issues relev
 * As a user, I want to see an appropriate welcome message that clearly explains the website's purpose, so that I can decide whether to continue using the site.
 * As a user, I want to watch engaging videos with tutorials or demonstrations on setting up privacy settings.
 * As a user, I want a quick way to contact someone for help, such as sending a form.
-* As a user, I want to read recent news about cybercrimes and tips on how to stay safe online.Acceptance
-* As a child I want to see some tips on cybersecurity so I can read more
+* As a user, I want to read recent news about cybercrimes and tips on how to stay safe online.
+* As a user I want to see some tips on cybersecurity so I can read more.
 * As a developer I want to create Readme file so that people understand easily the website, its purpose and structure
 * As a user, I want to read recent news about cybercrimes and tips on how to stay safe online.
 
 
 
 ## UX
-The end user of the website would (primarily) be children. This imapct our design and the intended UK in a number of ways.
+The end user of the website would (primarily) be young adults. This imapct our design and the intended UK in a number of ways.
 
 ### Visuals
 Simple, consistent page layouts were used across all three pages.
@@ -185,8 +185,8 @@ This website contains alt text for images and links where appropriate for all us
 - [ ] Tips for staying safe online (page)
 - [ ] News page
 - [ ] Social media links
-- [ ] Contact informat
-- [ ] Form for getting in touch
+- [ ] Contact information
+- [ ] Helpline Form for getting in touch
 - [ ] Landing page
 
 
