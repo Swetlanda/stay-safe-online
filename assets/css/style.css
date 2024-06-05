@@ -105,6 +105,39 @@ h1 {
     border-color: #0081A7;
 }
 
+/* Video-feature*/
+.gap100 {
+    margin-bottom: 100px;
+}
+.homepage-video-header {
+    color: #0081A7;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .embed-responsive-16by9 {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+  }
+
+  .embed-responsive-16by9 iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  @media (max-width: 767px) {
+    .col-md-8, .col-md-4 {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+}
+
 /* Footer */
 .footer {
     font-family: "Roboto", sans-serif;
