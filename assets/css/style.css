@@ -59,7 +59,8 @@ h1 {
 
 /*Safety tips*/
 .homepage-safety-header,
-.safety-page-header, .news-header {
+.safety-page-header,
+.news-header {
     color: #0081A7;
     text-align: center;
     margin-top: 20px;
@@ -117,7 +118,6 @@ h1 {
 .homepage-video-header {
     color: #0081A7;
     text-align: center;
-
     margin-bottom: 20px;
 }
 
@@ -138,6 +138,7 @@ h1 {
 }
 
 @media (max-width: 767px) {
+
     .col-md-8,
     .col-md-4 {
         flex: 0 0 100%;
@@ -156,12 +157,15 @@ h1 {
     margin-bottom: 20px;
     display: block;
     margin: auto;
- }
+}
+.video-description {
+    margin-top: 10px;
+}
 
 /* Feature - Video */
 .gap100 {
     margin-bottom: 100px;
-  }
+}
 
 /* Footer */
 .footer {
@@ -251,16 +255,16 @@ h1 {
 /* Helpline */
 .image-container {
     display: flex;
-    justify-content: center; 
-    align-items: center;    
-    text-align: center;   
-    padding: 20px;   
- }
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
 
 .responsive-image {
-    max-width: 100%; 
-    height: auto;    
-    display: block;  
-    margin: 0 auto;  
-    width: 15%;      
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    width: 15%;
 }
