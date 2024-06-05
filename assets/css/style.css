@@ -50,9 +50,9 @@ main {
     text-align: center;
 }
 
-.homepage-safety-text,
-    {
+.homepage-safety-text    {
     text-align: center;
+    font-size: 120%;
 }
 
 .safety-page-text {
