@@ -59,7 +59,7 @@ h1 {
 
 /*Safety tips*/
 .homepage-safety-header,
-.safety-page-header {
+.safety-page-header, .news-header {
     color: #0081A7;
     text-align: center;
     margin-top: 20px;
