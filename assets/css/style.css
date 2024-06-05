@@ -92,6 +92,11 @@ main {
     border-color: #0081A7;
 }
 
+/* Feature - Video */
+.gap100 {
+    margin-bottom: 100px;
+  }
+
 /* Footer */
 .footer {
     font-family: "Roboto", sans-serif;
