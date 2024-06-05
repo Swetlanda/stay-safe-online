@@ -149,8 +149,8 @@ h1 {
     color: #ffffff;
     background: #00AFB9;
     height: auto;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 
 }
 
@@ -180,6 +180,21 @@ h1 {
     color: #3a3a3a;
 }
 
+#social-networks i:hover {
+    color: #FED9B7;
+}
+
+.socials-email h5 {
+    margin-bottom: 28px;
+}
+.socials {
+    width: 400px;
+    height: auto;
+}
+
+.socials h5 {
+    text-align: center;
+}
 .footer a {
     position: relative;
     top: 40%;
@@ -199,7 +214,9 @@ h1 {
     color: black;
 }
 
-.socials {
-    width: 400px;
-    height: 60px;
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (max-width: 765px) {
+    .logo {
+       display: none;
+    }
 }
