@@ -34,6 +34,20 @@ body {
     color: #FED9B7;
 }
 
+/* hero */
+h1 {
+    color: #FED9B7; 
+}
+.c-item {
+    height: 480px;
+}
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+
 /* Main content */
 main {
    
