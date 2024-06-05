@@ -105,6 +105,11 @@ h1 {
     border-color: #0081A7;
 }
 
+/* Video-feature*/
+.gap100 {
+    margin-bottom: 100px;
+}
+
 /* Footer */
 .footer {
     font-family: "Roboto", sans-serif;
