@@ -246,3 +246,20 @@ h1 {
         display: none;
     }
 }
+
+/* Helplin */
+.image-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    text-align: center;   
+    padding: 20px;   
+ }
+
+.responsive-image {
+    max-width: 100%; 
+    height: auto;    
+    display: block;  
+    margin: 0 auto;  
+    width: 15%;      
+}
