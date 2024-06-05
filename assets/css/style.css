@@ -77,7 +77,7 @@ h1 {
 
 .safety-article {
     background-color: #FDFCDC;
-    margin-bottom: 20px;
+
 }
 
 .card-footer {
@@ -92,6 +92,7 @@ h1 {
 
 .card {
     border-color: #0081A7;
+    margin-bottom: 0;
 }
 
 .btn-light {
@@ -247,7 +248,7 @@ h1 {
     }
 }
 
-/* Helplin */
+/* Helpline */
 .image-container {
     display: flex;
     justify-content: center; 
