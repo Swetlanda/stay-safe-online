@@ -52,7 +52,7 @@ main {
     position: relative;
 }
 
-#cover-text {
+.cover-text {
     font-size: 130%;
     position: absolute;
     top: 15%;
