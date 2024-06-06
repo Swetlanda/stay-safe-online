@@ -14,6 +14,9 @@ body {
     flex-direction: column;
 }
 
+.link {
+    text-decoration: none;
+}
 
 /* Styles for Navbar */
 .navbar-custom-background {
@@ -237,9 +240,33 @@ h1 {
 #social-networks i:hover {
     color: #FED9B7;
 }
+.socials-email {
+    width: 206px;
+    height: 80px;
+    margin-left: 50px;
+    margin: 0;
+    padding: 0;
+}
 
-.socials-email h5 {
-    margin-bottom: 28px;
+.email {
+    font-size: large;
+    color: #3a3a3a;
+    text-align: center;
+}
+
+.socials-title {
+    font-size: 18px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding: 0;
+}
+.socials-email a:hover {
+    color: #FED9B7;
 }
 
 .socials {
@@ -248,10 +275,11 @@ h1 {
 }
 
 .socials h5 {
+    text-transform: uppercase;
     text-align: center;
 }
 
-.footer a {
+.footer .logo {
     position: relative;
     top: 40%;
     left: 15px;
