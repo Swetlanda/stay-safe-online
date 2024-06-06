@@ -70,41 +70,34 @@ Our objective, working in teams of three, is to develop a website that educates 
 * Enable users to contact us conveniently via a message form.
 
 ## Features
-## Landing Page:
+### Landing Page:
 * Engaging carousel with a welcome message "How To Stay Safe Online: Quick Guide on Staying Secure Together."
 * Selection of visually captivating images with a clear message.
 * Integration of Bootstrap card functionality for responsiveness and easy access to safety tips.
 * Inclusion of a video on online security to cater to users preferring visual content.
 * Display of three recent news articles to pique interest and relevance.
-## Safety Tips Page:
+### Safety Tips Page:
 * Clearly defined title and summary content.
 * Presentation of key safety tips with the option to explore further.
 * Responsive design to ensure optimal viewing across devices, with tips arranged in rows and collapsible for mobile devices.
-## News Page:
+### News Page:
 * Clearly defined title and summary content.
 * Display of recent news articles with images for visual appeal.
 * Responsive layout for optimal viewing experience on various devices, ensuring readability and accessibility.
-## Helpline Form:
+### Helpline Form:
 * Inclusion of a user-friendly form for users to contact us if needed.
 * Quick access to the helpline through a dedicated button on the navigation bar for added convenience.
-## Navigation Menu: 
+### Navigation Menu: 
 * Clear and concise menu items. 
 * Easy to navigate all website.
 * Include Call-to-Action button.
 * Nav toggle for mobile version
-## Footer:
+### Footer:
 * Contact information (email address) is clearly visible, easy to read, and allows sending an email in one click.
 * Recognizable icons for platforms such as Facebook, Twitter, LinkedIn, and Instagram are grouped together in a consistent style.
 
 -----------
 <br>
-
-Much of the initial design was undertaken using bootstrap, before overlaying bespoke design preferences. 
-
-An agile methodology and principal was employed across 3 days to design and develop the site.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -180,6 +173,11 @@ Simple, non-cursive fonts were used to ensure good readability for the younger a
 
 ### Navigation
 A simple and familar (but adaptive) navigation framework was used in order to ensure that children could move between the key elements of the site.
+
+## Agile methodology and principal 
+* Agile methodology and principal was employed to design and develop the site.
+* KANBAN board for User stories, including Acceptance Criteria and Tasks
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -275,6 +273,10 @@ Project Link: [https://github.com/swetlanda/stay-safe-online](https://github.com
 * []() coloors.co for a colour template
 * []() figma.com for site wireframing
 * []() Chat GPT AI for creation of content 
+* []() Google for using fonts
+* []() Font Awesome for using icons
+* []() Bootstrap
+* []() GitHub projects for agile methodology
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
