@@ -52,31 +52,49 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/Swetlanda/stay-safe-online)
 
-"Stay Safe Online" is a project initiated as part of the Code Institite Hackathon 1. It is intended to provide a real-life learning opportunity to work with others on front end web development.
+Project Goals "Stay Safe Online" is an initiative launched during the Code Institute Hackathon 1, aimed at providing a hands-on learning experience in front-end web development while addressing the critical issue of online safety.
 
-Working in teams of 3, we have been tasked with creating a website which educates users (children and young adults) on how to stay safe online. This may include avoiding (or dealing with) cyber bullying, identity theft of phishing scams.
+Our objective, working in teams of three, is to develop a website that educates users on best practices for maintaining online safety, covering topics such as cyberbullying, identity theft, and phishing scams.
 
-There are 6 pre-defined Learning Outcomes defined to allow trainee coders to put their HTML and CSS skills in to practice:
+## Ideation
 
-**LO1** Design a static Front-End web application using HTML and CSS based on the principles of user experience design, accessibility and responsivity  
+## User Goals
+* Access concise information on online safety.
+* Easily navigate to find internet safety tips.
+* Stay updated on recent cybersecurity news.
+* Have a user-friendly helpline form for assistance.
 
-**LO2** Test a Front-End web application through the development, implementation and 
-deployment stages  
+## Site Owner Goals
+* Offer essential information on online safety with additional reading resources.
+* Provide up-to-date relevant news on cybersecurity.
+* Enable users to contact us conveniently via a message form.
 
-**LO3** Deploy a Front-End web application to a Cloud platform  
+## Features
+## Landing Page
+* Engaging carousel with a welcome message "How To Stay Safe Online: Quick Guide on Staying Secure Together."
+* Selection of visually captivating images with a clear message.
+* Integration of Bootstrap card functionality for responsiveness and easy access to safety tips.
+* Inclusion of a video on online security to cater to users preferring visual content.
+* Display of three recent news articles to pique interest and relevance.
+## Safety Tips Page:
+* Clearly defined title and summary content.
+* Presentation of key safety tips with the option to explore further.
+* Responsive design to ensure optimal viewing across devices, with tips arranged in rows and collapsible for mobile devices.
+## News Page:
+* Clearly defined title and summary content.
+* Display of recent news articles with images for visual appeal.
+* Responsive layout for optimal viewing experience on various devices, ensuring readability and accessibility.
+## Helpline Form:
+* Inclusion of a user-friendly form for users to contact us if needed.
+* Quick access to the helpline through a dedicated button on the navigation bar for added convenience.
 
-**LO4** Maximise future maintainability through documentation, code structure and organisation  
-
-**LO5** Demonstrate and document the development process through a version control system such as GitHub  
-
-**LO6** Use an Agile methodology to plan and design a Front End Web application  
 
 -----------
 <br>
 
 Much of the initial design was undertaken using bootstrap, before overlaying bespoke design preferences. 
 
-An agile methodology and principal was employed across 4 days to design and develop the site.
+An agile methodology and principal was employed across 3 days to design and develop the site.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,9 +126,14 @@ Clone the repo
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## UX/UI
 
-This project can be used to highlight and demonstrate any number of issues relevant to children and young adults. Simply replace the content with your topic of choice, and update images as required.
+## Target Audience
+People who want to know more about how to stay safe online and specifically young adults who may not have much experience 
+People who want to read recent news about cybersecurity
+People who want to watch video with online safety tips
+People who need help and want to get in touch 
+This impact our design and the intended UK in a number of ways.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,12 +150,7 @@ This project can be used to highlight and demonstrate any number of issues relev
 * As a user, I want to read recent news about cybercrimes and tips on how to stay safe online.
 * As a user I want to see some tips on cybersecurity so I can read more.
 * As a developer I want to create Readme file so that people understand easily the website, its purpose and structure
-* As a user, I want to read recent news about cybercrimes and tips on how to stay safe online.
 
-
-
-## UX
-The end user of the website would (primarily) be young adults. This imapct our design and the intended UK in a number of ways.
 
 ### Visuals
 Simple, consistent page layouts were used across all three pages.
@@ -170,7 +188,6 @@ The website and all it's individual pages were validated through HTML and CSS va
 This website contains alt text for images and links where appropriate for all users to view and browse the website and also in case any images fail to load, the alt text will display what would have been there so the website is still somewhat usable.
 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
@@ -180,14 +197,17 @@ This website contains alt text for images and links where appropriate for all us
     - [ ] Navigation bar
     - [ ] Hero image
     - [ ] Carousel images
+    - [ ] Safety tip featured items
+    - [ ] Video
+    - [ ] New feauted items 
     - [ ] Footer
 - [ ] Adaptive design for different screen sizes
 - [ ] Tips for staying safe online (page)
 - [ ] News page
+- [ ] Helpline page with Form for getting in touch
 - [ ] Social media links
 - [ ] Contact information
-- [ ] Helpline Form for getting in touch
-- [ ] Landing page
+- [ ] Helpline Button with Form for getting in touch
 
 
 See the [open issues](https://github.com/swetlanda/stay-safe-online/issues) for a full list of proposed features (and known issues).
@@ -221,7 +241,11 @@ No licenses required or used in this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Deployment  -->
+Deployment
+Site was deployed as follows:
 
+Site was deployed on GitHub
 
 <!-- CONTACT -->
 ## Contact
@@ -242,6 +266,7 @@ Project Link: [https://github.com/swetlanda/stay-safe-online](https://github.com
 * []()jpawlowski for the template readme file
 * []() coloors.co for a colour template
 * []() figma.com for site wireframing
+* []() Chat GPT AI for creation of content 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
