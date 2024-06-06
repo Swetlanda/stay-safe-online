@@ -61,8 +61,8 @@
                 </div>
                 <form method="post">
                     <h5 class="homepage-safety-header text-center mb-3">Helpline - How can we help you?</h5>
-                    <div class="row">
-                        <div class="col-md-6">
+                    <div class="row d-flex flex-column flex-md-row">
+                        <div class="col-md-6 order-1">
                             <div class="form-group mb-3">
                                 <input type="text" name="txtName" class="form-control" placeholder="Your Name *"
                                     required />
@@ -71,11 +71,14 @@
                                 <input type="email" name="txtEmail" class="form-control" placeholder="Your Email *"
                                     required />
                             </div>
+                            <div class="form-group mb-3 d-md-none"> 
+                                <textarea name="txtMsg" class="form-control" placeholder="Your Message *" rows="5" required></textarea>
+                            </div>
                             <div class="form-group">
                                 <input type="submit" class=" btn btn-light" value="Send Message" />
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 order-2 d-none d-md-block">
                             <div class="form-group">
                                 <textarea name="txtMsg" class="form-control" placeholder="Your Message *" rows="5"
                                     required></textarea>
