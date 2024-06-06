@@ -25,14 +25,12 @@ body {
 
 .btn-helpline {
     background-color: #F07167;
-    border-color: #F07167;
-    color: black;
+        color: black;
 }
 
 .btn-helpline:hover {
     background-color: #d7473c;
-    border-color: #d7473c;
-}
+   }
 
 .navbar-brand {
     color: #FED9B7;
@@ -161,7 +159,7 @@ h1 {
     width: 100%;
     height: 100%;
 }
-. embed-responsive-item {
+.embed-responsive-item {
     border: 0; 
 }
 
