@@ -43,10 +43,32 @@ main {
 }
 
 /* hero */
-h1 {
-    color: #FED9B7;
+#hero {
+    height: 500px;
+    width: 100%;
+    position: relative;
 }
 
+#cover-text {
+    font-size: 130%;
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+h1 {
+    color: #FDFCDC;
+    
+}
+
+.text-uppercase {
+    color: #FED9B7;
+}
 .c-item {
     height: 480px;
 }
