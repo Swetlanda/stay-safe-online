@@ -158,6 +158,9 @@ h1 {
     width: 100%;
     height: 100%;
 }
+. embed-responsive-item {
+    border: 0; 
+}
 
 @media (max-width: 767px) {
 
