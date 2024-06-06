@@ -70,7 +70,7 @@ Our objective, working in teams of three, is to develop a website that educates 
 * Enable users to contact us conveniently via a message form.
 
 ## Features
-## Landing Page
+## Landing Page:
 * Engaging carousel with a welcome message "How To Stay Safe Online: Quick Guide on Staying Secure Together."
 * Selection of visually captivating images with a clear message.
 * Integration of Bootstrap card functionality for responsiveness and easy access to safety tips.
@@ -87,7 +87,14 @@ Our objective, working in teams of three, is to develop a website that educates 
 ## Helpline Form:
 * Inclusion of a user-friendly form for users to contact us if needed.
 * Quick access to the helpline through a dedicated button on the navigation bar for added convenience.
-
+## Navigation Menu: 
+* Clear and concise menu items. 
+* Easy to navigate all website.
+* Include Call-to-Action button.
+* Nav toggle for mobile version
+## Footer:
+* Contact information (email address) is clearly visible, easy to read, and allows sending an email in one click.
+* Recognizable icons for platforms such as Facebook, Twitter, LinkedIn, and Instagram are grouped together in a consistent style.
 
 -----------
 <br>
@@ -151,6 +158,7 @@ This impact our design and the intended UK in a number of ways.
 * As a user I want to see some tips on cybersecurity so I can read more.
 * As a developer I want to create Readme file so that people understand easily the website, its purpose and structure
 
+We used MoSCow for prioritasion of user stories.
 
 ### Visuals
 Simple, consistent page layouts were used across all three pages.
@@ -242,7 +250,7 @@ No licenses required or used in this project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Deployment  -->
-Deployment
+## Deployment
 Site was deployed as follows:
 
 Site was deployed on GitHub
