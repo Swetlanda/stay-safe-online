@@ -129,10 +129,10 @@ Clone the repo
 ## UX/UI
 
 ## Target Audience
-People who want to know more about how to stay safe online and specifically young adults who may not have much experience 
-People who want to read recent news about cybersecurity
-People who want to watch video with online safety tips
-People who need help and want to get in touch 
+* People who want to know more about how to stay safe online and specifically young adults who may not have much experience 
+* People who want to read recent news about cybersecurity
+* People who want to watch video with online safety tips
+* People who need help and want to get in touch 
 This impact our design and the intended UK in a number of ways.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
